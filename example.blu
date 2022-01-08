@@ -1,0 +1,6 @@
+#future structure of the lang
+
+func sum(x, y) {
+    println("sum is:)
+    return x + y
+}
