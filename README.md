@@ -1,7 +1,2 @@
-# blulang
-Scripting language made in C++
+#The Blu Language
 
-
-# Uses
-
-Game scripting / Embedding to C++ code
